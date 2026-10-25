@@ -1,12 +1,12 @@
-# ⚽ Tabla de Posiciones de Fútbol
+#  Tabla de Posiciones de Fútbol
 
-## 📌 Descripción del proyecto
+##  Descripción del proyecto
 
 Este proyecto consiste en una aplicación web desarrollada con React que permite registrar partidos de fútbol, consultar resultados y visualizar una tabla de posiciones que se actualiza automáticamente.
 
 La aplicación cuenta con seis equipos de fútbol y permite llevar el control de sus estadísticas durante los partidos registrados.
 
-## 🚀 Funcionalidades
+## Funcionalidades
 
 - Registro de partidos entre dos equipos.
 - Validación para evitar seleccionar el mismo equipo como local y visitante.
@@ -19,7 +19,7 @@ La aplicación cuenta con seis equipos de fútbol y permite llevar el control de
 - Guardado de los resultados en el navegador mediante `localStorage`.
 - Interfaz adaptable a computadores y dispositivos móviles.
 
-## 🛠️ Tecnologías utilizadas
+##  Tecnologías utilizadas
 
 - **React:** desarrollo de la interfaz y manejo de estados.
 - **JavaScript:** lógica de la aplicación y cálculos.
@@ -28,7 +28,7 @@ La aplicación cuenta con seis equipos de fútbol y permite llevar el control de
 - **Vite:** herramienta para ejecutar el proyecto durante el desarrollo.
 - **localStorage:** almacenamiento de los partidos en el navegador.
 
-## ⚽ Sistema de puntuación
+## Sistema de puntuación
 
 La tabla de posiciones utiliza las siguientes reglas:
 
@@ -40,7 +40,7 @@ También se calculan los partidos jugados, ganados, empatados, perdidos, goles a
 
 Los equipos se ordenan según los puntos obtenidos, la diferencia de goles y los goles a favor.
 
-## 💻 Requisitos
+## Requisitos
 
 Para ejecutar el proyecto se necesita:
 
@@ -48,7 +48,7 @@ Para ejecutar el proyecto se necesita:
 - npm, incluido normalmente con Node.js.
 - Un navegador web moderno.
 
-## ▶️ Instalación y ejecución
+##  Instalación y ejecución
 
 ### 1. Clonar el repositorio
 
@@ -80,23 +80,24 @@ Abre en tu navegador la dirección local que aparece en la terminal, normalmente
 
 `http://localhost:5173/`
 
-## 👥 Integrantes
+##  Integrantes
 
-- Integrante 1: JUAN PABLO VARELA PADILLA
+- Integrante : JUAN PABLO VARELA PADILLA
 -
 
-## 🎓 Información académica
+##  Información académica
 
 - Universidad: Universidad de la costa
 - Programa académico: Ingeniería de sistemas
 - Asignatura: Desarrollo web
 - Docente: TOSCANO CASTILLA LUIS
 
-## 📄 Estado del proyecto
+## Estado del proyecto
 
 Proyecto académico desarrollado como práctica de React, manejo de estados, validación de datos, cálculos dinámicos y diseño adaptable.
 
-## 🔗 Repositorio
+##  Repositorio
 
 [Ver el proyecto en GitHub](https://github.com/juanvx54/tabla-futbol)
+
 
